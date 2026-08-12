@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # GX10 Monitor
 
 ASUS GX10 (NVIDIA DGX Spark) 实时监控脚本
